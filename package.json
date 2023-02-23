@@ -1,0 +1,23 @@
+{
+  "name": "react-hook-form-yup",
+  "version": "1.0.0",
+  "description": "",
+  "keywords": [],
+  "main": "src/index.js",
+  "dependencies": {
+    "@hookform/resolvers": "2.9.11",
+    "react": "17.0.*",
+    "react-dom": "17.0.*",
+    "react-hook-form": "7.43.2",
+    "react-native-web": "0.18.*",
+    "react-scripts": "3.4.1",
+    "yup": "1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
